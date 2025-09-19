@@ -1,2 +1,3 @@
-# ris_25_3b
-# commit vetka1
+# Bugreev Pavel Sergeevich
+## RIS-25-3B
+
